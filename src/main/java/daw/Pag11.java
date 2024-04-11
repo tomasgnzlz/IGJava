@@ -17,7 +17,7 @@ public class Pag11 {
         // La ventana no se puede redimensionar
         frame.setResizable(false);
         // Posición de la ventana
-        frame.setLocationRelativeTo(null);
+        frame.setLocationRelativeTo(null);  
         // Incluimos el panel en la ventana
         frame.add(new Saludo());
         // Ajusta el frame al contenido
